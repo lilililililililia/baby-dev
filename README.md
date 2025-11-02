@@ -13,7 +13,7 @@ baby-dev/
 │
 ├── week1/                # 第一周开发任务
 │   ├── Alice/            # 成员个人文件夹
-│   │   ├── homework1.md  # 作业或笔记
+│   │   ├── homework1.md  # 作业信息或笔记
 │   │   └── code/         # 可选：代码目录
 │   │       └── hello_move.sol
 │   └── Bob/
