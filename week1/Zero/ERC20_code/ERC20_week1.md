@@ -13,3 +13,4 @@
 1、remix链接meta mask钱包一开始找不到位置
 2、remix部署ERC20时编译部署出错，账户链接失败
 3、git环境未配置，导致vscode无法使用git命令
+4、github仓库没有关联
