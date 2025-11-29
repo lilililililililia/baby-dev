@@ -53,7 +53,7 @@
 ## 📎 参考资料
 - Uniswap V2 白皮书：https://uniswap.org/whitepaper.pdf
 - Vitalik 的 AMM 文章：https://vitalik.ca/general/2018/07/21/stablecoins.html
-- 视频推荐：《Uniswap V2 从 0 讲清楚》系列（任一平台）
+- 视频推荐：https://www.bilibili.com/video/BV1hWdbYLEkv/?spm_id_from=333.1387.upload.video_card.click
 - 数学扩展：`x*y=k` 推导、费用累积、价格 oracle（Time-Weighted Average Price）
 
 > Week3 重点是“理解 + 记录”，请不要急于动手编码。第四周将要求“完全自行实现（不可引用官方库）”，本周的笔记和设计会直接决定你能否顺利交付。
